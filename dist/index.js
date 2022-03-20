@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const puppeteer = require("puppeteer");
+const puppeteer = require("puppeteer-core");
 const helpers_1 = require("./helpers");
 const constants_1 = require("./constants");
 const queue = [];
